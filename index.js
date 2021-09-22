@@ -21,4 +21,6 @@ Quiz("Which avenger is magician? ","Dr Strange");
 Quiz("What is the name of Iron Man character? ", "Tony Stark");
 Quiz("Which avenger can change it's size at any extent? ","Antman");
 Quiz("Steve Rogers AKA? ","Captain America");
+Quiz("Who is Green Giant Avenger? ","Hulk");
+console.clear()
 console.log("Thank You, "+user+"\nYour Score: "+score);
